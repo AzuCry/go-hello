@@ -1,5 +1,5 @@
 package gohello
 
 func Hello() string {
-	return "Hello, World!"
+	return "Hello, World! This is a Go application."
 }
